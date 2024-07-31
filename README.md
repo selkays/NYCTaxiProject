@@ -1,6 +1,3 @@
-# NYCTaxiProject
-
-
 # Azure Synapse Analytics Project - NYC Taxi Trips Data
 # Overview
 This repository contains the code and resources for a real-world data engineering project using Azure Synapse Analytics. The project focuses on analyzing and reporting on NYC Taxi Trips data, showcasing the application of various data engineering skills in a cloud environment.
